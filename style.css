@@ -19,3 +19,56 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+.cat1, .cat2 , .cat3{
+    padding: 10px 30px;
+    border-radius: 15px;
+
+}
+.cat1{
+    background-image: linear-gradient(to bottom,#FF9C35 0%, #FFD019 100%);
+}
+.cat2{
+    background-image: linear-gradient(to bottom,#FF589B 0%, #FF136F 100%);
+}
+.cat3{
+    background-image: linear-gradient(to bottom,#4289FF 0%, #07F8C3 100%);
+}
+.categories h1{
+    color: white;
+}
+.categories img{
+    width: 30%;
+}
+.card{
+    text-align: center;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+    padding-top: 3%;
+ 
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+#subscribe{
+text-align:center ;
+}
+.subscribe-contain{
+padding-top: 10%;
+padding-bottom: 10%;
+}
+.subscribe-contain h6{
+   padding-bottom: 2%;
+   color: gray;
+}
+.subscribe-contain input{
+    border: none;
+    margin-bottom: 1%;
+   border-radius: 5px;
+   text-align: center;
+   padding:5px;
+}
+footer{
+    text-align: center;
+}
